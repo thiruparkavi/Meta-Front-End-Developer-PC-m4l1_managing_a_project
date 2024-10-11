@@ -4,10 +4,10 @@ Blue
 Cyan
 Yellow
 Charcoal
-Khaki
+khaki
 Coral
 Silver
 Fuchsia
 Purple
 Brown
-Red
+red
